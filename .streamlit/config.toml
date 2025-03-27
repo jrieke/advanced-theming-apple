@@ -26,31 +26,6 @@ family = "SF Mono"
 weight = 400
 
 [[theme.fontFaces]]
-url = "app/static/San-Francisco-Pro-Fonts-master/SF-Pro-Display-Black.otf"
-family = "SF Pro Display"
-weight = 900
-
-[[theme.fontFaces]]
-url = "app/static/San-Francisco-Pro-Fonts-master/SF-Pro-Display-Bold.otf"
-family = "SF Pro Display"
-weight = 700
-
-[[theme.fontFaces]]
-url = "app/static/San-Francisco-Pro-Fonts-master/SF-Pro-Display-Heavy.otf"
-family = "SF Pro Display"
-weight = 800
-
-[[theme.fontFaces]]
-url = "app/static/San-Francisco-Pro-Fonts-master/SF-Pro-Display-Light.otf"
-family = "SF Pro Display"
-weight = 300
-
-[[theme.fontFaces]]
-url = "app/static/San-Francisco-Pro-Fonts-master/SF-Pro-Display-Medium.otf"
-family = "SF Pro Display"
-weight = 500
-
-[[theme.fontFaces]]
 url = "app/static/San-Francisco-Pro-Fonts-master/SF-Pro-Display-Regular.otf"
 family = "SF Pro Display"
 weight = 400
@@ -59,13 +34,3 @@ weight = 400
 url = "app/static/San-Francisco-Pro-Fonts-master/SF-Pro-Display-Semibold.otf"
 family = "SF Pro Display"
 weight = 600
-
-[[theme.fontFaces]]
-url = "app/static/San-Francisco-Pro-Fonts-master/SF-Pro-Display-Thin.otf"
-family = "SF Pro Display"
-weight = 100
-
-[[theme.fontFaces]]
-url = "app/static/San-Francisco-Pro-Fonts-master/SF-Pro-Display-Ultralight.otf"
-family = "SF Pro Display"
-weight = 200
